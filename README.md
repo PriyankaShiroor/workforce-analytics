@@ -1,4 +1,4 @@
-## Workforce-analytics**
+## Workforce-analytics
 This SQL project analyzes workforce demographics, headcounts, salary costs, and skill gaps. It bridges current staffing data with future demand forecasts to identify departmental hiring shortages, trainability gaps, and talent investment priorities for executive decision-making.
 **
 Key Insights & Analytics**
