@@ -1,0 +1,63 @@
+SELECT *FROM dbo.Workforce_Planning_Analytics_Dataset;
+SELECT
+    Department,
+    COUNT(*) AS ActiveEmployees
+FROM dbo.Workforce_Planning_Analytics_Dataset
+WHERE ExitDate IS NULL
+GROUP BY Department
+ORDER BY ActiveEmployees DESC;
+
+SELECT
+    Department,
+    COUNT(*) AS ActiveEmployees,
+    COUNT(*) * 0.08 AS ExpectedAttrition,
+    COUNT(*) - (COUNT(*) * 0.08) AS ForecastedWorkforce
+FROM dbo.Workforce_Planning_Analytics_Dataset
+WHERE ExitDate IS NULL
+GROUP BY Department
+ORDER BY ForecastedWorkforce DESC;
+
+SELECT Department,
+       TrainingStatus,
+       COUNT(*) As EmployeeCount
+FROM dbo.Workforce_Planning_Analytics_Dataset
+WHERE ExitDate is NULL
+GROUP BY Department, TrainingStatus
+ORDER BY Department, EmployeeCount DESC;
+
+SELECT 
+    Department,
+    COUNT(*) As HighPerformers
+FROM dbo.Workforce_Planning_Analytics_Dataset
+WHERE ExitDate is NULL 
+  AND PerformanceRating >= 4
+GROUP BY Department
+ORDER BY HighPerformers DESC;
+
+SELECT 
+   Department,
+   AVG(ExperienceYears) As AvgExperience
+   FROM dbo.Workforce_Planning_Analytics_Dataset
+   WHERE ExitDate is NULL 
+   GROUP BY Department
+   ORDER BY AvgExperience DESC;
+
+SELECT
+    Department,
+    COUNT(*) AS ActiveEmployees,
+    SUM(AnnualSalary) AS TotalAnnualSalary,
+    AVG(AnnualSalary) AS AverageSalary
+FROM Employees
+WHERE ExitDate IS NULL
+GROUP BY Department;
+
+SELECT 
+    Department,
+    COUNT(*) As ActiveEmployees,
+    RANK() OVER (
+        ORDER BY COUNT(*) DESC 
+    ) AS WorkforceRank 
+FROM dbo.Workforce_Planning_Analytics_Dataset
+WHERE ExitDate IS NULL
+GROUP BY Department;
+

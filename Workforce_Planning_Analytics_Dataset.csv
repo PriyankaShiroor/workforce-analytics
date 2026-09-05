@@ -1,0 +1,151 @@
+EmployeeID,Department,Role,Age,ExperienceYears,AnnualSalary,PerformanceRating,PrimarySkill,JoinDate,ExitDate,TrainingStatus
+1001,Operations,Operations Analyst,30,4,596316,4,SQL,2021-02-21,,Not Started
+1002,Operations,Process Analyst,24,1,548246,3,Python,2021-06-28,,Not Started
+1003,Customer Service,Customer Support Analyst,43,12,1021412,4,Python,2024-02-24,,In Progress
+1004,Customer Service,Team Lead,47,3,1182052,4,Power BI,2025-07-16,,In Progress
+1005,HR,HRBP,26,2,848382,2,Power BI,2026-05-15,,In Progress
+1006,Customer Service,Team Lead,40,2,846922,2,Workday,2025-07-11,,In Progress
+1007,Operations,Process Analyst,41,4,1188797,2,SQL,2025-12-19,,Not Started
+1008,HR,Recruiter,26,7,741476,4,Data Visualization,2021-06-13,,In Progress
+1009,HR,Recruiter,31,12,1166751,4,SQL,2022-12-29,,Not Started
+1010,Operations,Operations Analyst,28,8,847887,3,Data Visualization,2023-12-30,,Not Started
+1011,Customer Service,Customer Support Analyst,47,1,690174,5,SQL,2024-11-03,,In Progress
+1012,Supply Chain,Planner,41,12,779963,3,Data Visualization,2021-05-16,,In Progress
+1013,Supply Chain,Operations Analyst,27,4,1231177,4,Workday,2023-07-29,,In Progress
+1014,Operations,Process Analyst,35,6,679974,3,Workday,2023-05-28,,In Progress
+1015,Technology,Data Analyst,28,11,892666,4,SQL,2025-10-30,,In Progress
+1016,Supply Chain,Operations Analyst,40,1,1163328,4,SQL,2023-08-17,,Not Started
+1017,Customer Service,Team Lead,26,5,905884,3,Excel,2025-04-24,,Completed
+1018,Operations,Process Analyst,47,3,982342,2,Data Visualization,2022-06-24,,In Progress
+1019,Operations,Process Analyst,34,3,1015579,5,Workday,2024-06-01,,Completed
+1020,Customer Service,Team Lead,48,5,701083,2,Python,2023-09-28,2026-04-08,Not Started
+1021,Technology,Data Analyst,25,9,1253035,3,Python,2025-02-07,,Not Started
+1022,Supply Chain,Operations Analyst,42,7,672086,4,Data Visualization,2021-12-05,,Not Started
+1023,HR,Recruiter,43,6,909381,4,Excel,2023-03-29,,Completed
+1024,HR,HRBP,41,9,691292,4,Python,2021-05-12,,Completed
+1025,Technology,Data Analyst,33,2,989131,3,Power BI,2022-04-14,2022-12-14,Not Started
+1026,Supply Chain,Supply Chain Analyst,41,10,945631,3,Excel,2024-01-10,,In Progress
+1027,HR,HR Analyst,34,7,881071,4,Data Visualization,2021-07-18,,Completed
+1028,Operations,Process Analyst,46,6,1289482,5,SQL,2024-08-16,,Completed
+1029,HR,HRBP,36,3,742075,4,Python,2024-01-04,,Completed
+1030,Supply Chain,Operations Analyst,23,2,1240170,5,Python,2021-07-20,2025-01-27,Completed
+1031,Supply Chain,Planner,35,1,622634,4,SQL,2023-09-13,,In Progress
+1032,Finance,Accountant,46,9,1144022,4,Excel,2022-08-08,,Completed
+1033,HR,Recruiter,41,12,1018532,2,Data Visualization,2022-03-22,,In Progress
+1034,Technology,Data Analyst,39,3,509642,4,SQL,2024-04-11,,Completed
+1035,Technology,Data Analyst,35,2,1383533,4,Python,2024-10-14,,Not Started
+1036,Customer Service,Customer Support Analyst,41,9,781737,3,Python,2024-06-22,,Not Started
+1037,Operations,Operations Specialist,27,11,1126856,3,Excel,2022-05-04,,In Progress
+1038,Technology,Data Analyst,41,2,526819,4,Python,2023-07-28,,Not Started
+1039,Finance,Financial Analyst,25,4,837477,3,Python,2026-03-27,,In Progress
+1040,Customer Service,Service Analyst,48,11,1004634,2,Data Visualization,2022-09-12,,Not Started
+1041,Finance,FP&A Analyst,27,5,571035,2,Data Visualization,2021-08-01,,Not Started
+1042,HR,Recruiter,45,6,663487,4,Data Visualization,2022-08-01,,In Progress
+1043,Customer Service,Team Lead,24,2,1115095,4,Power BI,2022-05-30,,Completed
+1044,Technology,BI Analyst,31,3,1227236,4,Workday,2025-04-29,,Not Started
+1045,Supply Chain,Operations Analyst,40,1,1325136,3,Workday,2021-01-20,2022-05-20,Not Started
+1046,HR,L&D Specialist,48,1,1392590,3,Python,2021-09-19,2024-04-02,Not Started
+1047,HR,HR Analyst,36,10,1235884,3,Python,2022-12-26,,Completed
+1048,HR,L&D Specialist,33,7,1291204,4,Data Visualization,2021-02-20,,Completed
+1049,Finance,Financial Analyst,35,1,1350300,4,Python,2025-06-01,,Completed
+1050,Supply Chain,Planner,30,4,474813,4,Python,2022-09-18,,In Progress
+1051,Finance,Accountant,34,11,984150,4,Data Visualization,2025-11-06,,Not Started
+1052,Finance,Financial Analyst,31,3,1058792,3,SQL,2021-08-25,,Completed
+1053,Customer Service,Team Lead,33,7,1085656,4,SQL,2022-12-09,,In Progress
+1054,Customer Service,Customer Support Analyst,23,9,1295687,4,Data Visualization,2022-06-06,2025-05-14,Not Started
+1055,Operations,Process Analyst,36,2,1146503,3,Workday,2024-10-05,,In Progress
+1056,Operations,Operations Analyst,39,5,1149287,4,Power BI,2025-01-14,,In Progress
+1057,Operations,Operations Specialist,44,7,1160219,4,Python,2024-02-10,,Not Started
+1058,Customer Service,Team Lead,23,5,750850,3,Excel,2023-04-12,,Not Started
+1059,Customer Service,Service Analyst,37,11,674082,4,Excel,2022-10-22,,Not Started
+1060,HR,HR Analyst,43,10,801470,2,Python,2022-08-05,,Not Started
+1061,Finance,Financial Analyst,23,1,706736,4,Workday,2025-07-10,,Completed
+1062,Supply Chain,Planner,29,12,1180180,4,Excel,2025-12-20,,In Progress
+1063,HR,HRBP,47,2,1266232,4,Python,2024-09-05,,Completed
+1064,Operations,Process Analyst,26,8,589816,5,Excel,2023-08-10,2025-06-30,Not Started
+1065,Customer Service,Service Analyst,47,8,1092412,5,Data Visualization,2024-05-04,,Not Started
+1066,Supply Chain,Operations Analyst,46,8,921932,3,Python,2023-07-03,,Not Started
+1067,Finance,FP&A Analyst,31,8,531247,4,Power BI,2023-09-20,,Completed
+1068,Finance,Accountant,25,3,608157,3,Excel,2022-10-17,,Not Started
+1069,HR,HRBP,33,9,938557,4,SQL,2021-05-12,,Completed
+1070,Supply Chain,Planner,45,1,1348348,5,Workday,2026-01-28,,In Progress
+1071,Supply Chain,Supply Chain Analyst,47,7,1344905,5,Excel,2026-04-15,,Not Started
+1072,Operations,Process Analyst,30,8,680080,3,Excel,2024-01-24,,In Progress
+1073,Technology,Product Analyst,48,7,1209359,3,Excel,2022-11-20,,Completed
+1074,Customer Service,Service Analyst,41,10,1145205,2,SQL,2021-02-25,,Not Started
+1075,Supply Chain,Supply Chain Analyst,24,5,847519,3,Python,2025-11-11,,In Progress
+1076,Finance,Accountant,31,7,714525,5,SQL,2025-04-08,,In Progress
+1077,Technology,Data Analyst,43,2,1269182,4,SQL,2026-05-04,,Completed
+1078,HR,HRBP,30,3,946564,4,SQL,2025-09-15,,Not Started
+1079,HR,L&D Specialist,34,3,1085324,4,Data Visualization,2024-12-03,,Not Started
+1080,Technology,Software Engineer,41,1,777110,4,Data Visualization,2026-05-30,,In Progress
+1081,Supply Chain,Operations Analyst,30,2,1181059,5,Power BI,2022-02-11,2026-02-14,Not Started
+1082,Customer Service,Customer Support Analyst,48,1,814069,4,Excel,2025-06-19,,Not Started
+1083,Finance,Financial Analyst,23,7,1312276,4,SQL,2023-11-03,,In Progress
+1084,Finance,FP&A Analyst,45,3,906641,3,Data Visualization,2025-12-31,,Not Started
+1085,Operations,Operations Specialist,40,8,937455,4,Data Visualization,2024-06-15,,Not Started
+1086,Finance,Accountant,25,5,1374457,4,Python,2025-10-11,,In Progress
+1087,Customer Service,Service Analyst,23,8,1342288,3,Python,2024-09-30,,In Progress
+1088,HR,Recruiter,31,10,1185244,3,Workday,2025-06-22,,Completed
+1089,Customer Service,Customer Support Analyst,36,8,1032144,5,Python,2021-06-25,,Not Started
+1090,Supply Chain,Operations Analyst,48,1,547573,3,Python,2024-12-28,,In Progress
+1091,Operations,Operations Analyst,34,8,1030358,4,Power BI,2022-09-20,,In Progress
+1092,Operations,Process Analyst,37,5,771517,3,Python,2022-11-09,,Completed
+1093,Operations,Operations Analyst,47,12,644143,3,Python,2022-10-09,2026-04-08,Not Started
+1094,Supply Chain,Planner,47,9,1075780,3,SQL,2025-01-23,,Completed
+1095,Finance,Financial Analyst,23,12,1010081,3,Power BI,2023-01-10,,Completed
+1096,Technology,BI Analyst,43,8,557570,5,SQL,2024-11-29,,Not Started
+1097,Finance,Accountant,28,1,714742,5,Excel,2023-09-08,,Completed
+1098,Technology,Product Analyst,44,1,609097,3,Workday,2023-10-05,,In Progress
+1099,Technology,Software Engineer,36,10,1075084,5,Workday,2021-08-31,,Completed
+1100,Customer Service,Team Lead,32,10,899660,3,Workday,2023-07-12,,Not Started
+1101,Technology,Data Analyst,43,4,727501,4,SQL,2026-04-25,,Completed
+1102,HR,HRBP,36,8,1172858,4,Excel,2024-02-05,2024-08-08,In Progress
+1103,Technology,Software Engineer,45,8,524637,4,Python,2022-08-14,,In Progress
+1104,Operations,Process Analyst,29,7,570351,4,Python,2024-09-16,,Not Started
+1105,HR,Recruiter,24,3,1281131,3,Workday,2025-08-20,,Not Started
+1106,Customer Service,Team Lead,45,7,735470,4,Workday,2023-06-19,2025-08-29,In Progress
+1107,Supply Chain,Supply Chain Analyst,46,6,1083039,3,SQL,2024-05-09,,Completed
+1108,HR,HR Analyst,31,10,492185,5,Python,2025-04-16,,In Progress
+1109,Customer Service,Service Analyst,28,10,907058,4,Excel,2023-06-25,,Completed
+1110,Supply Chain,Planner,44,2,1349398,3,Power BI,2023-04-17,,In Progress
+1111,Operations,Operations Specialist,35,9,488479,4,SQL,2022-08-14,,In Progress
+1112,Finance,Accountant,35,9,1314998,2,Data Visualization,2021-08-26,,Not Started
+1113,Supply Chain,Planner,34,10,1243188,4,Data Visualization,2021-04-22,,In Progress
+1114,Technology,Software Engineer,32,8,1373634,4,Excel,2022-07-01,,Completed
+1115,Technology,Software Engineer,40,1,1029077,4,SQL,2024-12-24,,Completed
+1116,Technology,Product Analyst,38,12,756039,4,Data Visualization,2026-04-24,,In Progress
+1117,Supply Chain,Planner,40,3,852219,3,Workday,2023-08-26,,Not Started
+1118,Operations,Operations Analyst,33,9,730150,5,SQL,2025-11-05,,In Progress
+1119,Operations,Operations Specialist,44,8,1357291,3,Excel,2025-09-12,,Not Started
+1120,Supply Chain,Planner,40,7,927463,3,Python,2022-11-12,,Not Started
+1121,HR,L&D Specialist,36,1,783632,4,Excel,2022-04-24,,Not Started
+1122,Supply Chain,Planner,43,3,969389,2,Python,2024-09-21,,Not Started
+1123,Customer Service,Team Lead,26,9,929123,2,Data Visualization,2025-11-17,,Completed
+1124,Supply Chain,Operations Analyst,38,5,805007,4,Data Visualization,2026-06-10,,In Progress
+1125,Operations,Operations Analyst,44,9,848468,3,Data Visualization,2025-10-11,,Not Started
+1126,Supply Chain,Operations Analyst,30,11,1167644,3,Python,2021-03-15,,Not Started
+1127,Technology,Product Analyst,45,2,915230,3,Data Visualization,2021-07-21,,In Progress
+1128,Technology,Data Analyst,32,6,843049,4,Python,2022-10-27,,Completed
+1129,Customer Service,Team Lead,28,3,633573,2,Workday,2024-03-05,,In Progress
+1130,Customer Service,Service Analyst,41,3,693467,4,Data Visualization,2022-05-09,,In Progress
+1131,Supply Chain,Planner,32,11,1023149,3,SQL,2024-09-27,,In Progress
+1132,Finance,FP&A Analyst,36,12,712246,4,Power BI,2022-09-05,,Completed
+1133,Supply Chain,Planner,41,6,1052733,3,Data Visualization,2021-08-07,,In Progress
+1134,Technology,Product Analyst,42,12,970856,5,Power BI,2022-07-17,2023-04-23,Completed
+1135,Customer Service,Team Lead,42,5,1160687,5,Data Visualization,2022-03-25,,Not Started
+1136,Operations,Operations Analyst,43,1,773939,5,Excel,2024-07-10,,Completed
+1137,Customer Service,Team Lead,32,6,1233790,4,Python,2025-02-08,,Completed
+1138,HR,Recruiter,31,3,719452,5,Excel,2023-12-24,,In Progress
+1139,Operations,Operations Specialist,27,4,1351922,4,Data Visualization,2025-07-06,2026-06-05,Not Started
+1140,Supply Chain,Operations Analyst,23,5,1012636,2,Excel,2023-01-20,2025-10-04,In Progress
+1141,Operations,Process Analyst,35,11,839518,2,Data Visualization,2024-10-08,,Completed
+1142,Supply Chain,Supply Chain Analyst,40,6,1089717,3,Data Visualization,2024-06-22,,Completed
+1143,Operations,Operations Specialist,43,7,572343,3,SQL,2026-02-06,,Completed
+1144,Finance,Accountant,27,7,925679,3,Data Visualization,2021-08-26,2025-02-26,Not Started
+1145,Operations,Process Analyst,46,3,1378423,4,Data Visualization,2023-05-09,,Completed
+1146,Supply Chain,Operations Analyst,31,1,1173811,3,Python,2023-04-16,,In Progress
+1147,Supply Chain,Supply Chain Analyst,44,6,1020913,4,Power BI,2025-10-18,,Completed
+1148,Supply Chain,Planner,37,2,1144963,3,Data Visualization,2022-01-24,,Not Started
+1149,Customer Service,Customer Support Analyst,30,3,1275206,4,Python,2021-04-14,,Completed
+1150,Customer Service,Customer Support Analyst,30,6,1261984,3,Workday,2024-04-15,,Completed
