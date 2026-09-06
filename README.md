@@ -1,4 +1,4 @@
-# Workforce Planning & Capability Gap Analysis
+# Workforce Planning, Forecasting & Capability Gap Analysis
 
 This SQL And Excel project analyzes workforce demographics, headcounts, salary costs, and skill gaps. It bridges current staffing data with future demand forecasts to identify departmental hiring shortages, trainability gaps, and talent investment priorities for executive decision-making.
 The project also includes an Excel-based forecasting model to estimate future workforce demand using historical headcount and attrition trends. Forecast outputs help identify hiring gaps and support workforce planning decisions.
