@@ -11,9 +11,9 @@ The project also includes an Excel-based forecasting model to estimate future wo
 * **Compensation & Ranking:** Derived total annual salary costs and applied SQL window functions (`RANK()`) to evaluate departmental scales.
 
 ## File Structure
-* `EmployeeDataProject1.sql` - Complete SQL queries covering headcount, demand forecasting, and skill gap metrics.
+* `EmployeeDataProject1.sql` - Complete **SQL queries** covering headcount, demand forecasting, and skill gap metrics.
 * `Workforce_Planning_Analytics_Dataset.csv` - Source dataset containing employee demographics, skills, and demand projections.
-*  `Workforce_Forecasting_Dashboard.zip`' - Excel dashboard containing workforce forecasting, capability gap analysis, attrition analysis, and hiring projections.
+*  `Workforce_Forecasting_Dashboard.zip`' - **Excel dashboard** containing workforce forecasting, capability gap analysis, attrition analysis, and hiring projections.
 *  `Workforce_Planning_Analytics.pbix` - **Power BI**: Interactive executive dashboard featuring core HR KPIs, dynamic filters, and visual department insights.
 * `README.md` - Project documentation and executive summary.
 
