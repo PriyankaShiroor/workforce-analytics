@@ -17,3 +17,8 @@ This SQL project analyzes workforce demographics, headcounts, salary costs, and 
 ## Tech Stack
 * **Database:** Microsoft SQL Server (SSMS)
 * **Language:** T-SQL (CTE, Window Functions, Group By, Aggregations)
+
+## Excel Forecasting
+2
+ 
+Created an Excel forecasting model to predict future workforce requirements based on historical staffing trends and attrition rates. The model supports workforce planning through demand projections and gap analysis.
