@@ -20,6 +20,7 @@ The project also includes an Excel-based forecasting model to estimate future wo
 * **Database:** Microsoft SQL Server (SSMS)
 * **Language:** T-SQL (CTE, Window Functions, Group By, Aggregations)
   Microsoft Excel (Forecasting, Trend Analysis, Visualization)
+Workforce_Planning_Analytics.pbix - Power BI: Interactive executive dashboard featuring core HR KPIs, dynamic filters, and visual department insights.
 
 ## Excel Dashboard & Forecasting
 
@@ -32,5 +33,31 @@ Developed an interactive Excel dashboard to analyze workforce headcount, attriti
 - Workforce demand forecasting and net hiring projections
 - Interactive slicers for department and skill-level filtering
 <img width="1362" height="672" alt="image" src="https://github.com/user-attachments/assets/3f6a4795-3568-47d1-af71-4c0495d7dd18" />
+
+📊 Workforce Planning & HR Analytics 
+
+An end-to-end workforce analytics project analyzing employee headcount, turnover, compensation, and skill development across 6 core departments.
+<img width="793" height="747" alt="image" src="https://github.com/user-attachments/assets/a35101a2-b98a-456c-80da-7d8237df6939" />
+---
+
+## 📈 Dashboard Overview
+
+
+The interactive Power BI report (`Workforce_Planning_Analytics.pbix`) tracks real-time HR metrics:
+
+* **Key Metrics**: 150 Total Employees | 135 Active | 15 Exits (10% Attrition Rate)
+* **Department Breakdown**: Headcount and exit trends across Supply Chain, Customer Service, Operations, HR, Technology, and Finance.
+* **Skill & Training Matrix**: Upskilling status (*Completed*, *In Progress*, *Not Started*) across key technical skills.
+* **Performance Analysis**: Employee distribution across performance ratings (Scale 2–5).
+
+---
+
+## 💡 Key Findings
+
+* **Retention**: 90% active retention rate across all business units.
+* **Training Gap**: **54 employees (36%)** have not started assigned upskilling courses, creating a priority focus for L&D.
+* **Skill Focus**: `Python` and `Data Visualization` represent the largest skill areas and the highest pending training volume.
+
+
 
 
