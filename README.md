@@ -18,7 +18,7 @@ The project also includes an Excel-based forecasting model to estimate future wo
 ## Tech Stack
 * **Database:** Microsoft SQL Server (SSMS)
 * **Language:** T-SQL (CTE, Window Functions, Group By, Aggregations)
- ** Microsoft Excel (Forecasting, Trend Analysis, Visualization)
+  Microsoft Excel (Forecasting, Trend Analysis, Visualization)
 
 ## Excel Forecasting
 
