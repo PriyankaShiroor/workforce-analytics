@@ -20,6 +20,17 @@ The project also includes an Excel-based forecasting model to estimate future wo
 * **Language:** T-SQL (CTE, Window Functions, Group By, Aggregations)
   Microsoft Excel (Forecasting, Trend Analysis, Visualization)
 
-## Excel Forecasting
+## Excel Dashboard & Forecasting
+2
+ 
+3
+Developed an interactive Excel dashboard to analyze workforce headcount, attrition trends, capability gaps, and future hiring requirements. The dashboard includes dynamic filters, visualizations, and a 12-month workforce demand forecast to support strategic workforce planning.
 
-Created an Excel forecasting model to predict future workforce requirements based on historical staffing trends and attrition rates. The model supports workforce planning through demand projections and gap analysis.
+### Dashboard Highlights
+
+- Headcount and exit analysis by department
+- Capability gap analysis by technical skill
+- Workforce demand forecasting and net hiring projections
+- Interactive slicers for department and skill-level filtering
+- <img width="1383" height="718" alt="image" src="https://github.com/user-attachments/assets/2e49366e-6c87-444b-b11b-fe8261312f31" />
+
