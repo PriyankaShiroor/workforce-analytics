@@ -21,9 +21,7 @@ The project also includes an Excel-based forecasting model to estimate future wo
   Microsoft Excel (Forecasting, Trend Analysis, Visualization)
 
 ## Excel Dashboard & Forecasting
-2
- 
-3
+
 Developed an interactive Excel dashboard to analyze workforce headcount, attrition trends, capability gaps, and future hiring requirements. The dashboard includes dynamic filters, visualizations, and a 12-month workforce demand forecast to support strategic workforce planning.
 
 ### Dashboard Highlights
