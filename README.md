@@ -33,11 +33,15 @@ Developed an interactive Excel dashboard to analyze workforce headcount, attriti
 - Capability gap analysis by technical skill
 - Workforce demand forecasting and net hiring projections
 - Interactive slicers for department and skill-level filtering
+
+- 📊 Workforce Planning & HR Analytics
+- An end-to-end workforce analytics project analyzing employee headcount, turnover, compensation, and skill development across 6 core departments.
+  
 <img width="1362" height="672" alt="image" src="https://github.com/user-attachments/assets/3f6a4795-3568-47d1-af71-4c0495d7dd18" />
 
-📊 Workforce Planning & HR Analytics 
 
-An end-to-end workforce analytics project analyzing employee headcount, turnover, compensation, and skill development across 6 core departments.
+
+
 <img width="793" height="747" alt="image" src="https://github.com/user-attachments/assets/a35101a2-b98a-456c-80da-7d8237df6939" />
 ---
 
